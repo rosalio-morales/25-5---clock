@@ -29,10 +29,10 @@ If no errors, you'll may open your browser at
 
    localhost:5173
    
- If you find underlined red in some libreries,
- you'll have download such librery from terminal
+ If you find underlined red in some libraries,
+ you'll have download such library from terminal
  
- npm install -librerie-
+ npm install -library-
     
 
 # React + TypeScript + Vite
