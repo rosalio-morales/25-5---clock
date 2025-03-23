@@ -32,7 +32,7 @@ If no errors, you'll may open your browser at
  If you find underlined red in some libreries,
  you'll have download such librery from terminal
  
- npm install <librerie>
+ npm install -librerie-
     
 
 # React + TypeScript + Vite
