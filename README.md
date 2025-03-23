@@ -22,6 +22,7 @@ nvm current
 npm -v 
 
 npm install(first time only)
+
 npm run dev
 
 If no errors, you'll may open your browser at
