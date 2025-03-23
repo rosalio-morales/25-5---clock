@@ -1,7 +1,10 @@
 # NOTE:
 If you want to run this project, you'll may do next:
+
   Download this file
+  
   Open this file into your editor(vs code)
+  
   In your editor's terminal write:
 
  npm install -g npm
