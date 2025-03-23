@@ -1,3 +1,35 @@
+NOTE:
+If you want to run this project, you'll may do next:
+-> Download this file
+-> Open this file into your editor(vs code)
+-> In your editor's terminal write:
+    -> npm install -g npm
+    # Download and install nvm:
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.2/install.sh | bash
+
+# in lieu of restarting the shell
+\. "$HOME/.nvm/nvm.sh"
+
+# Download and install Node.js:
+nvm install 22
+
+# Verify the Node.js version:
+node -v # Should print "v22.14.0".
+nvm current # Should print "v22.14.0".
+
+# Verifica versión de npm:
+npm -v # Debería mostrar "10.9.2".
+
+-> npm install(first time only)
+-> npm run dev
+-> If no errors, you'll may open your browser
+   at localhost:5173
+#If you find underlined red in some libreries,
+ you'll have download such librery from terminal
+ npm install <librerie>
+ 
+<===========================================================================================================================================================================>   
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
