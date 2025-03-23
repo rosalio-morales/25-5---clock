@@ -1,4 +1,4 @@
-NOTE:
+# NOTE:
 If you want to run this project, you'll may do next:
 -> Download this file
 -> Open this file into your editor(vs code)
@@ -7,17 +7,17 @@ If you want to run this project, you'll may do next:
     # Download and install nvm:
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.2/install.sh | bash
 
-# in lieu of restarting the shell
+#in lieu of restarting the shell
 \. "$HOME/.nvm/nvm.sh"
 
-# Download and install Node.js:
+#Download and install Node.js:
 nvm install 22
 
-# Verify the Node.js version:
+#Verify the Node.js version:
 node -v # Should print "v22.14.0".
 nvm current # Should print "v22.14.0".
 
-# Verifica versión de npm:
+#Verifica versión de npm:
 npm -v # Debería mostrar "10.9.2".
 
 -> npm install(first time only)
@@ -27,8 +27,7 @@ npm -v # Debería mostrar "10.9.2".
 #If you find underlined red in some libreries,
  you'll have download such librery from terminal
  npm install <librerie>
- 
-<===========================================================================================================================================================================>   
+    
 
 # React + TypeScript + Vite
 
